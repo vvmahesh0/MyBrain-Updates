@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>My Brain Updates</title>
+    <link>https://github.com/vvmahesh0/MyBrain-Updates</link>
+    <description>Secure updates for My Brain.</description>
+    <language>en</language>
+  </channel>
+</rss>
